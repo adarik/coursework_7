@@ -115,3 +115,4 @@ celerybeat.pid
 .envlocal
 app.db
 postgres-data
+.env
